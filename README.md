@@ -1,5 +1,3 @@
-Fotag! by Jiayi Liu
-
 Welcome to Fotag! :D
 
 Use command "./gradlew run" to run the program (gradlew.bat on windows)
